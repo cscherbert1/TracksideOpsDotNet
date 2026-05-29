@@ -1,4 +1,11 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".dockerignore" />
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path="ai/phase1/ARCHITECTURE.md" />
+    <File Path="ai/phase1/README.md" />
+  </Folder>
   <Project Path="TracksideOps.Domain/TracksideOps.Domain.csproj" />
   <Project Path="TracksideOps.Infrastructure/TracksideOps.Infrastructure.csproj" />
   <Project Path="TracksideOps.Tests/TracksideOps.Tests.csproj" />
