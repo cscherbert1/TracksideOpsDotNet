@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="TracksideOps/TracksideOps.csproj" />
+  <Project Path="TracksideOps.Domain/TracksideOps.Domain.csproj" />
+  <Project Path="TracksideOps.Infrastructure/TracksideOps.Infrastructure.csproj" />
+  <Project Path="TracksideOps.Tests/TracksideOps.Tests.csproj" />
+  <Project Path="TracksideOps.Web/TracksideOps.Web.csproj" />
 </Solution>
